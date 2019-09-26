@@ -1,4 +1,4 @@
-int ledPin;
+int ledPin = 6;
 boolean ledVal = HIGH;
 int currentTime;
 int lastChange = 0;
@@ -23,6 +23,6 @@ void loop() {
 
     lastChange = currentTime;
   }
-  
+
   digitalWrite(ledPin, ledVal);
 }
