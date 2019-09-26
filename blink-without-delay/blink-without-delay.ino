@@ -5,7 +5,7 @@ int lastChange = 0;
 int wait = 500;
 
 void setup() {
-  pinMode(ledPin, INPUT);
+  pinMode(ledPin, OUTPUT);
 }
 
 void loop() {
