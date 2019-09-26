@@ -6,7 +6,7 @@ boolean buttonVal = HIGH;
 boolean prevButtonVal = HIGH;
 
 void setup() {
-  pinMode(ledPin, INPUT);
+  pinMode(ledPin, OUTPUT);
 
   pinMode(buttonPin, INPUT_PULLUP);
 }
