@@ -1,4 +1,4 @@
-# Test
+# E19 INF Interaction Design BA Project
 
 This repository will contain resources and code examples for the 3 DD Lab workshops: arduino, digital fabrication, and creative programming & machine learning.
 
