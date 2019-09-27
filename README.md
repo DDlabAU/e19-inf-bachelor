@@ -3,6 +3,9 @@
 This repository will contain resources and code examples for the 3 DD Lab workshops: arduino, digital fabrication, and creative programming & machine learning.
 
 ## Arduino
+
+Before we get to programming we must download and install the Arduino IDE from this link: [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software).
+
 ### LED
 Use with the code ```blink_without_delay```
 
