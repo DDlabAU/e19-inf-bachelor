@@ -2,6 +2,8 @@
 
 This repository will contain resources and code examples for the 3 DD Lab workshops: arduino, digital fabrication, and creative programming & machine learning.
 
+To gain 24/7 acces to DD Lab write your AU-ID in [this document](https://docs.google.com/document/d/1FoEP0qTcsEFyzThbeAz_xVywSCf1MchunuaclhCA9ag/edit?usp=sharing).
+
 ## Arduino
 
 Before we get to programming we must download and install the Arduino IDE from this link: [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software).
