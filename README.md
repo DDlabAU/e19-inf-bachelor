@@ -8,6 +8,8 @@ To gain 24/7 acces to DD Lab write your AU-ID in [this document](https://docs.go
 
 https://processing.org/download/
 
+http://www.wekinator.org/downloads/
+
 https://github.com/AndreasRef/ml4ixd_weki
 
 https://ml5js.org/
