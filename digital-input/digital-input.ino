@@ -25,4 +25,6 @@ void loop() {
     // this line of code:
     // ledVal = !ledVal;
   }
+  
+  digitalWrite(ledPin, ledVal);
 }
